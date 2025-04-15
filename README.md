@@ -1,4 +1,4 @@
-# Davis Socoloski
+# Davi Socoloski
 
 Desenvolvedor em formação com foco em **Back-end** e **Análise de Dados**.
 
