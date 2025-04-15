@@ -42,10 +42,4 @@ Atualmente desenvolvendo projetos próprios e aprofundando conhecimentos em tecn
 
 ---
 
-## 📫 Contato
-
-Em breve: LinkedIn e e-mail profissional
-
----
-
 <sub>Este perfil está em constante atualização conforme avanço nos estudos e projetos. Obrigado pela visita.</sub>
