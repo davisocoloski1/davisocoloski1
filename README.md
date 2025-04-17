@@ -26,11 +26,11 @@ Atualmente desenvolvendo projetos próprios e aprofundando conhecimentos em tecn
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davisocoloski1&show_icons=true&theme=dark&hide_border=true" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisocoloski1)
-</p>
+</p> -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisocoloski1)
 
 
 ---
